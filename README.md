@@ -25,4 +25,5 @@ This is a simple Weather Application built using **React** and **Material UI**, 
 
 ## 📷 Screenshot
 
-![Weather App Screenshot](./screenshot.png)
+![Weather App Screenshot](https://raw.githubusercontent.com/Surajghogare80/React-weather-app/main/screenshot.png)
+
